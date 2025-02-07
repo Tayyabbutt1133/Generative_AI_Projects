@@ -1,0 +1,8 @@
+# GPT AI MODEL -> Gen AI LLM Model 
+# Langchain -> for ochestration
+# Neon4j -> Graph base Data storing / Retrieving 
+# Streamlit -> To build frontend interface and host LLM application 
+# DataStax Astra DB ->for vector search
+
+# pip install langchain langchain-community langchain-experimental streamlit #langchain-openai neo4j pypdf json-repair
+
